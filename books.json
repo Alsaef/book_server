@@ -1,0 +1,81 @@
+[
+    {
+        "bookid": 1,
+        "bookName": "Don Quixote",
+        "author": "Miguel de Cervantes",
+        "image": "https://bestlifeonline.com/wp-content/uploads/sites/3/2020/10/Don-Quixote-cover.jpg?resize=500,766&quality=82&strip=all",
+        "review": "The most popular novel of all time, Don Quixote, is a testament to how great storytelling has no expiration date. The story follows a Hidalgo, Alonso Quixano, who proves that chivalry will, in fact, never die.",
+        "totalPages": 1500,
+        "rating": 4.59,
+        "category": "chivalry",
+        "tags": "Mistery",
+        "publisher": "Lost & Found",
+        "yearOfPublishing": 1612
+    },
+    {
+        "bookid": 2,
+        "bookName": "A Tale of Two Cities",
+        "author": "Charles Dickens",
+        "image": "https://bestlifeonline.com/wp-content/uploads/sites/3/2020/10/A-Tale-of-Two-Cities-Cover.jpg?resize=500,762&quality=82&strip=all",
+        "review": "Chances are, you read A Tale of Two Cities (or at least pretended to) in a high school class. It's no surprise that this novel has sold so many copies—it's practically mandatory.",
+        "totalPages": 1355,
+        "rating": 4.58,
+        "category": "Romance",
+        "tags": "Romance",
+        "publisher": "Duck Presses",
+        "yearOfPublishing": 1859
+    },
+    {
+        "bookid": 3,
+        "bookName": "The Lord of the Rings ",
+        "author": "J.R.R. Tolkien",
+        "image": "https://bestlifeonline.com/wp-content/uploads/sites/3/2020/10/Lord-of-the-Rings-cover.jpg?resize=500,752&quality=82&strip=all",
+        "review": "The best-selling fantasy novel series, The Lord of the Rings, has only grown in popularity since it was released, spawning a veritable armada of films, theatre, music, artwork, video games, and even board games.",
+        "totalPages": 1750,
+        "rating": 4.7,
+        "category": "Thriller",
+        "tags": "Thriller",
+        "publisher": "Houghton Miffin Harcourt",
+        "yearOfPublishing": 1954
+    },
+    {
+        "bookid": 4,
+        "bookName": "The Little Prince",
+        "author": "Antoine de Saint-Exupéry",
+        "image": "https://bestlifeonline.com/wp-content/uploads/sites/3/2020/10/The-Little-Prince-book-cover.jpg?resize=500,706&quality=82&strip=all",
+        "review": "The Little Prince, a book about the perils of growing old by French aristocrat Antoine de Saint-Exupéry, has been translated into more than 300 languages and dialects.",
+        "totalPages": 1420,
+        "rating": 4.78,
+        "category": "Fantasy",
+        "tags": "Fantasy",
+        "publisher": "Aima Books",
+        "yearOfPublishing": 1943
+    },
+    {
+        "bookid": 5,
+        "bookName": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "image": "https://bestlifeonline.com/wp-content/uploads/sites/3/2020/10/The-Hobbit-book-cover.jpg?resize=500,774&quality=82&strip=all",
+        "review": "This relatively brief novel set the stage for J.R.R. Tolkien's later work, The Lord of the Rings. In The Hobbit, or There and Back Again, we follow protagonist Bilbo Baggins and accompany him on a treasure hunt gone wrong.",
+        "totalPages": 1548,
+        "rating": 4.85,
+        "category": "Mistery",
+        "tags": "Mistery",
+        "publisher": "Houghton Miffin Harcourt",
+        "yearOfPublishing": 1937
+    },
+    {
+        "bookid": 6,
+        "bookName": "Harry Potter and the Philosopher's Stone",
+        "author": "J.K. Rowling",
+        "image": "https://bestlifeonline.com/wp-content/uploads/sites/3/2020/10/Harry-Potter-and-Philisophers-Stone-book-cover.jpg?resize=500,748&quality=82&strip=all",
+        "review": "In the first installment of the massively popular series, Harry Potter and the Philosopher's Stone—otherwise known as Harry Potter and the Sorcerer's Stone—a boy finds out, not only that he's a wizard, but that he's already famous in a world he doesn't know.",
+        "totalPages": 1650,
+        "rating": 4.9,
+        "category": "Mistery",
+        "tags": "Mistery",
+        "publisher": "Bloomsbury",
+        "yearOfPublishing": 1997
+    }
+    
+]
