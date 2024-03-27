@@ -1,6 +1,7 @@
 [
     {
         "bookid": 1,
+        "price":150,
         "bookName": "Don Quixote",
         "author": "Miguel de Cervantes",
         "image": "https://bestlifeonline.com/wp-content/uploads/sites/3/2020/10/Don-Quixote-cover.jpg?resize=500,766&quality=82&strip=all",
@@ -14,6 +15,7 @@
     },
     {
         "bookid": 2,
+        "price":120,
         "bookName": "A Tale of Two Cities",
         "author": "Charles Dickens",
         "image": "https://bestlifeonline.com/wp-content/uploads/sites/3/2020/10/A-Tale-of-Two-Cities-Cover.jpg?resize=500,762&quality=82&strip=all",
@@ -27,6 +29,7 @@
     },
     {
         "bookid": 3,
+        "price":160,
         "bookName": "The Lord of the Rings ",
         "author": "J.R.R. Tolkien",
         "image": "https://bestlifeonline.com/wp-content/uploads/sites/3/2020/10/Lord-of-the-Rings-cover.jpg?resize=500,752&quality=82&strip=all",
@@ -40,6 +43,7 @@
     },
     {
         "bookid": 4,
+        "price":200,
         "bookName": "The Little Prince",
         "author": "Antoine de Saint-Exupéry",
         "image": "https://bestlifeonline.com/wp-content/uploads/sites/3/2020/10/The-Little-Prince-book-cover.jpg?resize=500,706&quality=82&strip=all",
@@ -53,6 +57,7 @@
     },
     {
         "bookid": 5,
+        "price":100,
         "bookName": "The Hobbit",
         "author": "J.R.R. Tolkien",
         "image": "https://bestlifeonline.com/wp-content/uploads/sites/3/2020/10/The-Hobbit-book-cover.jpg?resize=500,774&quality=82&strip=all",
@@ -66,6 +71,7 @@
     },
     {
         "bookid": 6,
+        "price":120,
         "bookName": "Harry Potter and the Philosopher's Stone",
         "author": "J.K. Rowling",
         "image": "https://bestlifeonline.com/wp-content/uploads/sites/3/2020/10/Harry-Potter-and-Philisophers-Stone-book-cover.jpg?resize=500,748&quality=82&strip=all",
